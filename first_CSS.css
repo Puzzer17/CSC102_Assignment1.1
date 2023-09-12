@@ -1,0 +1,37 @@
+body
+{
+    background-color:  rgb(35, 54, 54);
+}
+
+p
+{
+    color:deepskyblue;
+}
+
+
+h1
+{
+    color:rgb(58, 190, 190);
+    background-color: rgb(35, 54, 54);
+    text-align: center;
+}
+h2
+{
+    color: rgb(128, 153, 85);
+    text-align: left;
+}
+h3
+{
+    color: darkolivegreen;
+    text-align: left;
+}
+img
+{
+    max-width: 640px;
+    max-height: 480px;
+}
+nav
+{
+    display: block;
+    background-color: dimgray;
+}
